@@ -1,0 +1,31 @@
+webrtc-express/node_modules
+webrtc-express/yarn.lock
+webrtc-express/package-lock.json
+
+
+# Logs
+webrtc-react/logs
+webrtc-react/*.log
+webrtc-react/npm-debug.log*
+webrtc-react/yarn-debug.log*
+webrtc-react/yarn-error.log*
+webrtc-react/pnpm-debug.log*
+webrtc-react/lerna-debug.log*
+
+webrtc-react/node_modules
+webrtc-react/dist
+webrtc-react/dist-ssr
+webrtc-react/*.local
+
+# Editor directories and files
+webrtc-react/.vscode/*
+webrtc-react/!.vscode/extensions.json
+webrtc-react/.idea
+webrtc-react/.DS_Store
+webrtc-react/*.suo
+webrtc-react/*.ntvs*
+webrtc-react/*.njsproj
+webrtc-react/*.sln
+webrtc-react/*.sw?
+
+webrtc-react/yarn.lock
